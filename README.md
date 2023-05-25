@@ -13,7 +13,7 @@ To create this app, @apollo/client, apollo-server-express, and graphql packages 
 ## Usage
 
 A user can sign up with their username, email and password, and log in with email and password. After logging in a user will be able to search for books, save the ones they like, and delete them from their list, if needed. A user can also search for books without logging in, but they will not be able to save the books that they liked.  
-[Book Search Engine App](https://lmintsys.github.io/react-portfolio/)  
+[Book Search Engine App](https://mern-book-search2303.herokuapp.com/)  
 ![main](assets/images/main.png)  
 ![books](assets/images/books.png)  
 ![delete](assets/images/delete.png)
